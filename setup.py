@@ -7,7 +7,7 @@ install_requires = [
     'Scrapy',
     'slybot>=0.13.0', 
     'dateparser',
-    'six==1.10.0',
+    'six>=1.10.0',
     'w3lib',
     'scrapely',
     'autoflake==0.6.6',
